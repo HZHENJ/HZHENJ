@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hzhenj&repo=traveller)](https://github.com/hzhenj/traveller)
+[![HZHENJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hzhenj)](https://github.com/hzhenj/traveller)

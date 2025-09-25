@@ -12,15 +12,9 @@
 - [Chat-Room MVP](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + PostgreSQL + RabbitMQ  
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default" />
-  <img height="200" src="https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn" />
-</div>
-
-
-<div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default" height="180" />
   <img src="https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn" height="180" />
-
 </div>
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HZHENJ&layout=compact&theme=default) | ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn) |
 

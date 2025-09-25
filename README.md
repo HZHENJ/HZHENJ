@@ -10,3 +10,9 @@
 - Currently exploring Microservices & System Design
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HZHENJ&theme=highcontrast)
+
+## 🚀 Featured Projects  
+- [Traveller](https://github.com/HZHENJ/traveller) - Distributed network probe system (Go + RabbitMQ + ClickHouse)  
+- [Chat-Room MVP](https://github.com/HZHENJ/chat-room) - Chatroom system with Go + PostgreSQL + RabbitMQ  

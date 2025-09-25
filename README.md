@@ -5,12 +5,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
-- Software Engineering Student  
-- Passionate about Distributed Systems, Go, PostgreSQL  
-- Currently exploring Microservices & System Design
+- 🎓 Master Student @ National University of Singapore (NUS)  
+- 💻 Passionate about Distributed Systems, Go, PostgreSQL  
+- 🌱 Currently exploring Microservices, Kafka, and System Design
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HZHENJ&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=HZHENJ&theme=highcontrast)
 
 ## 🚀 Featured Projects  
 - [Traveller](https://github.com/HZHENJ/traveller) - Distributed network probe system (Go + RabbitMQ + ClickHouse)  
-- [Chat-Room MVP](https://github.com/HZHENJ/chat-room) - Chatroom system with Go + PostgreSQL + RabbitMQ  
+- [Chat-Room MVP](https://github.com/HZHENJ/chat-room) - Chatroom system with Go + PostgreSQL + RabbitMQ
+
+## 🏆 Algorithm Practice  
+![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)

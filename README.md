@@ -12,7 +12,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HZHENJ&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=HZHENJ&theme=highcontrast)
 
 ## 🚀 Featured Projects  
 - [Traveller](https://github.com/HZHENJ/traveller) - Distributed network probe system (Go + RabbitMQ + ClickHouse)  

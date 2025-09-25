@@ -19,3 +19,5 @@
 
 ## 🏆 Algorithm Practice  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
+
+![Snake animation](https://raw.githubusercontent.com/HZHENJ/HZHENJ/output/github-contribution-grid-snake.svg)

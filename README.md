@@ -14,3 +14,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
 
+| GitHub Stats | LeetCode Stats |
+|--------------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default) | ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn) |

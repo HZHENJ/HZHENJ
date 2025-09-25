@@ -12,21 +12,16 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-
   <a href="https://github.com/HZHENJ">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=default&count_private=true&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=default&count_private=true&hide_border=true" />
   </a>
 </div>
 
-### 🏆 Algorithm Practice  
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
-
-</div>
-
 ### 🚀 Featured Projects  
-
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System (Go + RabbitMQ + ClickHouse)  
 - [Chat-Room MVP](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + PostgreSQL + RabbitMQ  
+
+### 🏆 Algorithm Practice  
+<div align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
+</div>

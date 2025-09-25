@@ -7,12 +7,10 @@
 
 - 🎓 Master Student @ National University of Singapore (NUS)  
 - 💻 Passionate about Distributed Systems, Go, PostgreSQL  
-- 🌱 Currently exploring Microservices, Kafka, and System Design  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true)  
-
+- 🌱 Currently exploring Microservices, Kafka, and System Design
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System (Go + RabbitMQ + ClickHouse)  
 - [Chat-Room MVP](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + PostgreSQL + RabbitMQ  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn)
 

@@ -16,24 +16,6 @@
   <a href="https://github.com/HZHENJ">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=default&count_private=true&hide_border=true" />
   </a>
-  <a href="https://github.com/HZHENJ">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HZHENJ&layout=compact&theme=default&hide_border=true" />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/HZHENJ">
-    <img height="160" src="https://streak-stats.demolab.com?user=HZHENJ&theme=default&hide_border=true" />
-  </a>
-
-</div>
-
-## 🏆 GitHub Trophies  
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=HZHENJ&theme=flat&column=6&margin-w=10&margin-h=10)
-
 </div>
 
 ## 🏆 Algorithm Practice  

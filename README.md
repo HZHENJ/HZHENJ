@@ -9,7 +9,7 @@
 - 💻 Passionate about Distributed Systems, Go, PostgreSQL  
 - 🌱 Currently exploring Microservices, Kafka, and System Design
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System (Go + RabbitMQ + ClickHouse)  
-- [Chat-Room MVP](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + PostgreSQL + RabbitMQ  
+- [Chat-Room](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + PostgreSQL + RabbitMQ  
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default" height="150"/>

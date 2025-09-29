@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Huang Zhenjia  
+# Hi there 👋, I'm Zhenjia  
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)

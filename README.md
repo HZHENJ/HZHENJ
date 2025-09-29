@@ -9,7 +9,7 @@
 - 💻 Passionate about Go/Python/MySQL/k8s
 - 🌱 Currently exploring Microservices, Kafka, and System Design
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System (Go + RabbitMQ + ClickHouse)  
-- [Chat-Room](https://github.com/HZHENJ/chat-room) – Chatroom system with go/gorm/hertz/Microservices/Websocket  
+- [Chat-Room](https://github.com/HZHENJ/chat-room) – Chatroom system with Go + Gorm + hertz + Microservices + Websocket  
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default" height="150"/>

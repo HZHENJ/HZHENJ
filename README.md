@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Zhenjia  
 
-https://raw.githubusercontent.com/HZHENJ/HZHENJ/output/github-contribution-grid-snake.svg
+![](https://raw.githubusercontent.com/HZHENJ/HZHENJ/output/github-contribution-grid-snake.svg)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)

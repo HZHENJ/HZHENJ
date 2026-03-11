@@ -1,4 +1,7 @@
 # Hi there 👋, I'm Zhenjia  
+
+https://raw.githubusercontent.com/HZHENJ/HZHENJ/output/github-contribution-grid-snake.svg
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -15,5 +18,3 @@
   <!-- - <img src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&count_private=true&theme=default" height="150"/> -->
   <img src="https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn" height="150"/>
 </div>
-
-https://raw.githubusercontent.com/HZHENJ/HZHENJ/main/github-contribution-grid-snake.svg

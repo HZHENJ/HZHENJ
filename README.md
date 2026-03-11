@@ -16,8 +16,4 @@
   <img src="https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn" height="150"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+https://raw.githubusercontent.com/HZHENJ/HZHENJ/main/github-contribution-grid-snake.svg

@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Zhenjia  
+# I'm Zhenjia  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Gopher;Backend+Engineer;NUS+Master+Student;Distributed+Systems+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Gopher;Backend+Engineer;Distributed+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,12 +15,16 @@
 - 🌱 **Learning**: Microservices, Kafka, and Deep Dive into System Design
 - 💬 **Ask me about**: Go, MySQL, Redis, and how to build scalable infrastructures
 
+</br>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HZHENJ&show_icons=true&theme=tokyonight&count_private=true" height="150" />
   <img src="https://leetcard.jacoblin.cool/HZHENJ?theme=unicorn&font=Noto%20Sans%20Lisu&site=cn" height="150"/>
 </p>
 
-<p align="center">
+</br>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />

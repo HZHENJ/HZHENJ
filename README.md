@@ -15,6 +15,10 @@
 - 🌱 **Learning**: Microservices, Kafka, and Deep Dive into System Design
 - 💬 **Ask me about**: Go, MySQL, Redis, and how to build scalable infrastructures
 
+### My Project
+- [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System
+- [AgentGo](https://github.com/HZHENJ/AgentGo) - High-Performance Agent Web Frameworks
+
 </br>
 
 <p align="left">

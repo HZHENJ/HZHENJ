@@ -17,7 +17,7 @@
 
 ### My Project
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System
-- [Data analysis agent](https://github.com/HZHENJ/data-analysis-agent)) - A Data analysis agent
+- [Data analysis agent](https://github.com/HZHENJ/data-analysis-agent) - A Data analysis agent
 
 </br>
 

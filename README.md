@@ -14,6 +14,7 @@
 - 🔭 **Focus**: High-performance Backend Services & Distributed Systems
 - 🌱 **Learning**: Microservices, Kafka, and Deep Dive into System Design
 - 💬 **Ask me about**: Go, MySQL, Redis, and how to build scalable infrastructures
+- My [Wiki](https://hzhenj.github.io/quartz-obsidian)
 
 ### My Project
 - [Traveller](https://github.com/HZHENJ/traveller) – Distributed Network Probe System
